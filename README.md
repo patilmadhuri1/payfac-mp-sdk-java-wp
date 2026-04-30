@@ -8,7 +8,7 @@
 
 The PayFac Merchant Provisioner SDK is a Java implementation of the [Worldpay](https://docs.worldpay.com/apis/cnpapi) PayFac Merchant Provisioner API. This SDK was created to make it as easy as possible to perform operations that allows you to create and update Legal Entities and Sub-merchants, as well as retrieve information about existing Legal Entities and Sub-merchants in near real-time. This SDK utilizes the HTTPS protocol to securely connect to Worldpay. Using the SDK requires coordination with the Vantiv eCommerce team in order to be provided with credentials for accessing our systems.
 
-Each Java SDK release supports all of the functionality present in the associated PayFac Merchant Provisioner API version (e.g., SDK v13.0.0 supports API v13.0.0). Please see our [documentation](https://developer.vantiv.com/community/ecommerce/pages/documentation) for PayFac Merchant Provisioner API to get more details on what operations are supported.
+Each Java SDK release supports all of the functionality present in the associated PayFac Merchant Provisioner API version (e.g., SDK v13.0.0 supports API v13.0.0). Please see our [documentation](https://docs.worldpay.com/apis/usecomm/merchantprovisioner) for PayFac Merchant Provisioner API to get more details on what operations are supported.
 
 This SDK is implemented to support the Java programming language and is created by Worldpay. Its intended use is for PayFac API operations with Worldpay.
 
